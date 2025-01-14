@@ -1,0 +1,34 @@
+{
+    "name": "PlayerActions",
+    "maps": [
+        {
+            "name": "UI",
+            "id": "fad8e8da-503b-47a6-ba71-af959f043fda",
+            "actions": [
+                {
+                    "name": "PressButton",
+                    "type": "PassThrough",
+                    "id": "7fd1b278-5d4a-4dce-8bb2-56130ee83128",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "ac9a6ca0-c6e5-4bb5-8215-82190ded009c",
+                    "path": "<Touchscreen>/Press",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "PressButton",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
